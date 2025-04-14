@@ -127,20 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\sae dec C octo verso git\SAE_OctoVerso-version_Dynamique\SAE_OctoVerso-version_Dynamique\chevalet.c" />
-    <ClCompile Include="..\..\sae dec C octo verso git\SAE_OctoVerso-version_Dynamique\SAE_OctoVerso-version_Dynamique\jeu.c" />
-    <ClCompile Include="..\..\sae dec C octo verso git\SAE_OctoVerso-version_Dynamique\SAE_OctoVerso-version_Dynamique\joueur.c" />
-    <ClCompile Include="..\..\sae dec C octo verso git\SAE_OctoVerso-version_Dynamique\SAE_OctoVerso-version_Dynamique\main.c" />
-    <ClCompile Include="..\..\sae dec C octo verso git\SAE_OctoVerso-version_Dynamique\SAE_OctoVerso-version_Dynamique\rail.c" />
+    <ClCompile Include="SAE_OctoVerso-version_Dynamique\chevalet.c" />
+    <ClCompile Include="SAE_OctoVerso-version_Dynamique\jeu.c" />
+    <ClCompile Include="SAE_OctoVerso-version_Dynamique\joueur.c" />
+    <ClCompile Include="SAE_OctoVerso-version_Dynamique\main.c" />
+    <ClCompile Include="SAE_OctoVerso-version_Dynamique\rail.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\sae dec C octo verso git\SAE_OctoVerso-version_Dynamique\SAE_OctoVerso-version_Dynamique\chevalet.h" />
-    <ClInclude Include="..\..\sae dec C octo verso git\SAE_OctoVerso-version_Dynamique\SAE_OctoVerso-version_Dynamique\jeu.h" />
-    <ClInclude Include="..\..\sae dec C octo verso git\SAE_OctoVerso-version_Dynamique\SAE_OctoVerso-version_Dynamique\joueur.h" />
-    <ClInclude Include="..\..\sae dec C octo verso git\SAE_OctoVerso-version_Dynamique\SAE_OctoVerso-version_Dynamique\rail.h" />
+    <ClInclude Include="SAE_OctoVerso-version_Dynamique\chevalet.h" />
+    <ClInclude Include="SAE_OctoVerso-version_Dynamique\jeu.h" />
+    <ClInclude Include="SAE_OctoVerso-version_Dynamique\joueur.h" />
+    <ClInclude Include="SAE_OctoVerso-version_Dynamique\rail.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\sae dec C octo verso git\SAE_OctoVerso-version_Dynamique\SAE_OctoVerso-version_Dynamique\CMakeLists.txt" />
+    <Text Include="SAE_OctoVerso-version_Dynamique\CMakeLists.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
